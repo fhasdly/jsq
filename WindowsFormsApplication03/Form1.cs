@@ -20,7 +20,7 @@ namespace WindowsFormsApplication03
         {
             InitializeComponent();
         }
-
+       // 新增取反，记忆存储按键
         private void SetInputFocus()            //定位焦点
         {
             textBox1.Focus();
