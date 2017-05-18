@@ -301,3 +301,4 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+csharp_calculator/Calculator/Calculator/Calculator.csproj
